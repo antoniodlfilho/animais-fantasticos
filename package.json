@@ -1,7 +1,6 @@
 {
-  "name": "animais-fetch-eslint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/plugin-transform-runtime": "^7.24.7",
